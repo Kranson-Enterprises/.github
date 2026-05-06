@@ -18,7 +18,7 @@
 
 ## 👋 Welcome
 
-**Kranson Enterprises** is a technology consulting firm operated by **Robert Kranson** ([@devopsbob](https://github.com/devopsbob)), a Technical Architect based in Sterling Heights, Michigan. Founded in 2002 as a platform for the Michigan Java Users Group, this organization has evolved into a knowledge-sharing network serving technology professionals, growing businesses, and curious learners across Southeast Michigan, Ohio, and Florida.
+**Kranson Enterprises** is a community-centered technology consulting organization led by **Robert Kranson** ([@devopsbob](https://github.com/devopsbob)), a Technical Architect based in Sterling Heights, Michigan. Founded in 2002 as a platform for the Michigan Java Users Group and rebranded to My Info Just Under Glass in 2025, the organization has evolved into a knowledge-sharing network serving technology professionals, growing businesses, and curious learners across Southeast Michigan, Ohio, and Florida.
 
 > *"The best solutions come from understanding both the technical possibilities and the human needs they serve."*
 
@@ -29,6 +29,8 @@
 We're passionate about creating connections — between people, technologies, and communities. [MIJUG.NET](https://www.mijug.net) serves as a hub for sharing practical insights about modern web development, sustainable technology practices, and building stronger tech communities.
 
 Our focus is simple: **empowering others through shared knowledge and fostering genuine connections in an increasingly digital world.**
+
+We support both individuals and organizations with practical guidance that improves delivery reliability, communication clarity, and compliance readiness.
 
 ---
 
@@ -42,6 +44,11 @@ Our focus is simple: **empowering others through shared knowledge and fostering 
 | 🚀 **Professional Development** | Supporting technology professionals and growing businesses |
 | 🌐 **Web Development** | Custom web solutions with modern stacks and accessibility standards |
 | 🔒 **DevSecOps** | Secure CI/CD pipelines, secrets management, and cloud infrastructure |
+
+Knowledgeable about current personal computing trends, we provide coaching sessions for local users and businesses to maximize success with hardware updates and upgrades.
+
+We also author technical documentation and create operational processes that align software product teams and business providers around shared, essential software development life cycle needs, including reporting compliance requirements for both enterprise and small business environments. Our experience includes SOC 2 and PCI SAQ A/SAQ D aligned practices, while remaining broad across implementations informed by multiple ISO standardization efforts.
+
 
 ---
 
@@ -75,7 +82,6 @@ Our focus is simple: **empowering others through shared knowledge and fostering 
 |---|---|
 | [**mijug-dot-net**](https://github.com/Kranson-Enterprises/mijug-dot-net) | Public domain static site — source for [mijug.net](https://www.mijug.net) |
 | [**ke-net-screen**](https://github.com/Kranson-Enterprises/ke-net-screen) | Raspberry Pi 5 Image Builder for Home DNS |
-| [**.github**](https://github.com/Kranson-Enterprises/.github) | Organization profile and community health files |
 
 ---
 
@@ -93,7 +99,7 @@ We're proud to serve technology communities across:
 
 ## 🤝 Connect With Us
 
-Ready to join the conversation or need technology consulting? We'd love to hear from you.
+Ready to join the conversation or need technology consulting? We'd love to hear from you. If you need help with architecture, SDLC process alignment, or compliance-ready reporting, let's start with a focused conversation.
 
 - 🌐 **Website:** [www.mijug.net](https://www.mijug.net)
 - 📧 **Email:** [devopsbob@outlook.com](mailto:devopsbob@outlook.com)
