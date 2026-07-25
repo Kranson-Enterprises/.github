@@ -90,7 +90,8 @@ We also author technical documentation and create operational processes that ali
 We're proud to serve technology communities across:
 
 - 🏭 **Southeast Michigan** — Where innovation meets manufacturing heritage
-- 🎓 **Ohio** — Connecting academic excellence with industry leadership  
+- 🎓 **Ohio** — Connecting academic excellence with industry leadership
+- 🚀 **Texas** — Connecting academic excellence with industry leadership
 - 🌴 **Florida** — Supporting diverse tech ecosystems from startups to enterprises
 
 *Serving technology communities since **2002**.*
