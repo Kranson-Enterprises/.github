@@ -18,7 +18,7 @@
 
 ## 👋 Welcome
 
-**Kranson Enterprises** is a community-centered technology consulting organization led by **Robert Kranson** ([@devopsbob](https://github.com/devopsbob)), a Technical Architect based in Sterling Heights, Michigan. Founded in 2002 as a platform for the Michigan Java Users Group and rebranded to My Info Just Under Glass in 2025, the organization has evolved into a knowledge-sharing network serving technology professionals, growing businesses, and curious learners across Southeast Michigan, Ohio, and Florida.
+**Kranson Enterprises** is a community-centered technology consulting organization led by **Robert Kranson** ([@devopsbob](https://github.com/devopsbob)), a Technical Architect based in Sterling Heights, MI.
 
 > *"The best solutions come from understanding both the technical possibilities and the human needs they serve."*
 
@@ -26,7 +26,7 @@
 
 ## 🎯 Our Mission
 
-We're passionate about creating connections — between people, technologies, and communities. [MIJUG.NET](https://www.mijug.net) serves as a hub for sharing practical insights about modern web development, sustainable technology practices, and building stronger tech communities.
+We're passionate about creating connections — between people, technologies, and communities. [MIJUG.NET](https://www.mijug.net) serves as a hub for sharing practical insights about modern web development and technology leadership.
 
 Our focus is simple: **empowering others through shared knowledge and fostering genuine connections in an increasingly digital world.**
 
@@ -47,8 +47,7 @@ We support both individuals and organizations with practical guidance that impro
 
 Knowledgeable about current personal computing trends, we provide coaching sessions for local users and businesses to maximize success with hardware updates and upgrades.
 
-We also author technical documentation and create operational processes that align software product teams and business providers around shared, essential software development life cycle needs, including reporting compliance requirements for both enterprise and small business environments. Our experience includes SOC 2 and PCI SAQ A/SAQ D aligned practices, while remaining broad across implementations informed by multiple ISO standardization efforts.
-
+We also author technical documentation and create operational processes that align software product teams and business providers around shared, essential software development life cycle needs, including governance, security, and operational excellence.
 
 ---
 
@@ -91,7 +90,7 @@ We're proud to serve technology communities across:
 
 - 🏭 **Southeast Michigan** — Where innovation meets manufacturing heritage
 - 🎓 **Ohio** — Connecting academic excellence with industry leadership
-- 🚀 **Texas** — Connecting academic excellence with industry leadership
+- ⭐ **Texas** — Supporting diverse tech ecosystems from startups to enterprises
 - 🌴 **Florida** — Supporting diverse tech ecosystems from startups to enterprises
 
 *Serving technology communities since **2002**.*
@@ -100,7 +99,7 @@ We're proud to serve technology communities across:
 
 ## 🤝 Connect With Us
 
-Ready to join the conversation or need technology consulting? We'd love to hear from you. If you need help with architecture, SDLC process alignment, or compliance-ready reporting, let's start with a focused conversation.
+Ready to join the conversation or need technology consulting? We'd love to hear from you. If you need help with architecture, SDLC process alignment, or compliance-ready reporting, let's start with a conversation.
 
 - 🌐 **Website:** [www.mijug.net](https://www.mijug.net)
 - 📧 **Email:** [devopsbob@outlook.com](mailto:devopsbob@outlook.com)
