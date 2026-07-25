@@ -57,6 +57,7 @@ We also author technical documentation and create operational processes that ali
 ![Java](https://img.shields.io/badge/Java-Spring%20Boot%20%7C%20JPA%20%7C%20EE-ED8B00?logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ReactJS%20%7C%20TypeScript%20%7C%20Node.js%20%7C%20Next.js-F7DF1E?logo=javascript&logoColor=black)
 ![Shell](https://img.shields.io/badge/Shell-Bash%20%7C%20Linux-4EAA25?logo=gnubash&logoColor=white)
+![Uniface](https://img.shields.io/badge/Uniface-Enterprise%20Application%20Platform-FF6B00?logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iMjAwIiBoZWlnaHQ9IjIwMCIgdmlld0JveD0iMCAwIDIwMCAyMDAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHJlY3Qgd2lkdGg9IjIwMCIgaGVpZ2h0PSIyMDAiIGZpbGw9IiNGRjZCMDAiIi8+PHRleHQgeD0iMTAwIiB5PSIxMjAiIGZvbnQtc2l6ZT0iNjAiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSJ3aGl0ZSIgdGV4dC1hbmNob3I9Im1pZGRsZSI+VTwvdGV4dD48L3N2Zz4=&logoColor=white)
 
 ### DevOps & Cloud
 ![Jenkins](https://img.shields.io/badge/CI%2FCD-Jenkins%20%7C%20GitHub%20Actions%20%7C%20Azure%20Pipelines-D24939?logo=jenkins&logoColor=white)
